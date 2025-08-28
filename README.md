@@ -41,7 +41,7 @@
 ---
 
 ## 📫 Connect with Me  
-<a href="mailto:cristine.obinsa@g.msuiit.edu.ph" target="_blank">
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://png.pngtree.com/template/20190717/ourmid/pngtree-gmail-logo-png-image_229718.jpg" alt="Email" width="40">
 </a>
 
