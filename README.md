@@ -30,3 +30,6 @@ Hi everyone, I'm Cristine yoroshiku onegaishimasu😊
 ---
 
 ⭐ *Thanks for visiting my GitHub page!* 🌸  
+
+![Alt text](images/image(1).png)
+
