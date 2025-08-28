@@ -42,7 +42,7 @@
 
 ## 📫 Connect with Me  
 <a href="mailto:cristine.obinsa@g.msuiit.edu.ph" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Email" width="40">
+    <img src="https://png.pngtree.com/template/20190717/ourmid/pngtree-gmail-logo-png-image_229718.jpg" alt="Email" width="40">
 </a>
 
 <a href="https://www.facebook.com/crissaobinsa" target="_blank">
@@ -52,6 +52,8 @@
 <a href="https://www.instagram.com/crstneobnsa/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" width="40">
 </a>
+
+
 ---
 
 ⭐ *Thanks for visiting my GitHub page!* 🌸  
