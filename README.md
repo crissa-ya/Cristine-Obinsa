@@ -10,7 +10,7 @@
 </p>
 
 ---
-
+## 🙋‍♂️ About Me 
 🎓 **BSIT Student** | Mindanao State University - Iligan Institute of Technology  
 💻 Passionate about **Networking, Graph Theory, and Software Development**  
 🌸 **Anime Lover**  
