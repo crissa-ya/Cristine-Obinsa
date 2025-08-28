@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  ## <b>  Hi everyone, I'm Cristine yoroshiku onegaishimasu😊</b>  
+  <b>  Hi everyone, I'm Cristine yoroshiku onegaishimasu😊</b>  
 </p>
 
 ---
