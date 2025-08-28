@@ -42,7 +42,7 @@
 
 ## 📫 Connect with Me  
 <a href="mailto:cristine.obinsa@g.msuiit.edu.ph" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s" alt="Email" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Email" width="40">
 </a>
 
 <a href="https://www.facebook.com/crissaobinsa" target="_blank">
