@@ -41,10 +41,9 @@
 ---
 
 ## 📫 Connect with Me  
-- 📧 **Email:** cristine.obinsa@g.msuiit.edu.ph
-- 📘 **Facebook:** [Cristine Obinsa](https://www.facebook.com/crissaobinsa)
-- 📷 Instagram: [Cristine Obinsa](https://www.instagram.com/crstneobnsa/)
-
+[![Email](https://img.shields.io/badge/Email-cristine.obinsa@g.msuiit.edu.ph-red?style=flat&logo=gmail&logoColor=white)](mailto:cristine.obinsa@g.msuiit.edu.ph)  
+[![Facebook](https://img.shields.io/badge/Facebook-Cristine%20Obinsa-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/CristineObinsa)  
+[![Instagram](https://img.shields.io/badge/Instagram-Cristine%20Obinsa-pink?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/CristineObinsa)
 ---
 
 ⭐ *Thanks for visiting my GitHub page!* 🌸  
