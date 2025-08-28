@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/zY6dE9G.png" width="100%" alt="Background">
+  <img src="https://github.com/crissa-ya/crissa-ya/blob/main/background.jfif" width="100%" alt="Background">
 </p>
 
 <p align="center">
