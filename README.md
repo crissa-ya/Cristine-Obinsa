@@ -31,5 +31,5 @@ Hi everyone, I'm Cristine yoroshiku onegaishimasu😊
 
 ⭐ *Thanks for visiting my GitHub page!* 🌸  
 
-![Cristine](https://github.com/crissa-ya/Cristine-Obinsa/blob/main/images.jpeg)
+![Cristine](https://github.com/crissa-ya/Cristine-Obinsa/blob/main/thank%20you.gif)
 
