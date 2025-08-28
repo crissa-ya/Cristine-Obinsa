@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  ## Hi everyone, I'm Cristine yoroshiku onegaishimasu😊
+  ## <b>  Hi everyone, I'm Cristine yoroshiku onegaishimasu😊</b>  
 </p>
 🎓 **BSIT Student** | Mindanao State University - Iligan Institute of Technology  
 💻 Passionate about **Networking, Graph Theory, and Software Development**  
