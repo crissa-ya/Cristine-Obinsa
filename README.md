@@ -1,4 +1,6 @@
 # Cristine-Obinsa
+
+![Cristine](https://github.com/crissa-ya/Cristine-Obinsa/blob/main/hello.gif)
 Hi everyone, I'm Cristine yoroshiku onegaishimasu😊
 
 # 👋 Hi, I'm Cristine Obinsa  
