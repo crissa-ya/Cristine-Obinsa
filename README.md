@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://www.instagram.com/crstneobnsa/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Finstagram-logo-png&psig=AOvVaw3j87firU2LDgZlQEita4_d&ust=1756456291622000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjLhd6LrY8DFQAAAAAdAAAAABAE" alt="Instagram" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" width="40">
 </a>
 ---
 
