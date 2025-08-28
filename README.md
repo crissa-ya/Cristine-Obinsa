@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Connect with Me  
-- 📘 **Facebook:** Cristine Obinsa
+- 📘 **Facebook:** [Cristine Obinsa](https://www.facebook.com/crissaobinsa)
 - 📧 **Email:** cristine.obinsa@g.msuiit.edu.ph  
 
 ---
