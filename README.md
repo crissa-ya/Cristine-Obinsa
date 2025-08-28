@@ -34,7 +34,8 @@
 
 ## 📫 Connect with Me  
 - 📘 **Facebook:** [Cristine Obinsa](https://www.facebook.com/crissaobinsa)
-- 📧 **Email:** cristine.obinsa@g.msuiit.edu.ph  
+- 📧 **Email:** cristine.obinsa@g.msuiit.edu.ph
+- 📷 Instagram: [Cristine Obinsa](https://www.instagram.com/crstneobnsa/)
 
 ---
 
