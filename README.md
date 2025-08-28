@@ -1,6 +1,6 @@
 
 <p align="center">
-  ![Cristine](https://github.com/crissa-ya/Cristine-Obinsa/blob/main/hello.gif)
+  <img src="https://github.com/crissa-ya/Cristine-Obinsa/blob/main/hello.gif" alt="Cristine" width="300">
 </p>
 
 
