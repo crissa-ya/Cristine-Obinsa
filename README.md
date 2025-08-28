@@ -6,8 +6,6 @@
 
 Hi everyone, I'm Cristine yoroshiku onegaishimasu😊
 
-# 👋 Hi, I'm Cristine Obinsa  
-
 🎓 **BSIT Student** | Mindanao State University - Iligan Institute of Technology  
 💻 Passionate about **Networking, Graph Theory, and Software Development**  
 ♟️ **Chess Player** 
