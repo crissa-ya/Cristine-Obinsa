@@ -41,9 +41,17 @@
 ---
 
 ## 📫 Connect with Me  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cristine.obinsa@g.msuiit.edu.ph)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/CristineObinsa)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/CristineObinsa)
+<a href="mailto:cristine.obinsa@g.msuiit.edu.ph" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40">
+</a>
+
+<a href="https://www.facebook.com/CristineObinsa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40">
+</a>
+
+<a href="https://www.instagram.com/CristineObinsa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40">
+</a>
 ---
 
 ⭐ *Thanks for visiting my GitHub page!* 🌸  
