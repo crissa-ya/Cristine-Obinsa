@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.imgur.com/zY6dE9G.png" width="100%" alt="Background">
+</p>
 
 <p align="center">
   <img src="https://github.com/crissa-ya/Cristine-Obinsa/blob/main/hello.gif" alt="Cristine" width="300">
