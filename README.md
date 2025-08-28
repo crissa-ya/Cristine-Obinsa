@@ -27,7 +27,7 @@
   <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svgg" height="40" alt="VSC"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="40" alt="VSC"/>
 
 
 - **Networking:** VLAN, Routing, SSH, Packet Tracer
