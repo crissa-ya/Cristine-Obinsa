@@ -47,7 +47,7 @@
 
 <a href="https://www.facebook.com/crissaobinsa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="https://www.instagram.com/crstneobnsa/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" width="40">
