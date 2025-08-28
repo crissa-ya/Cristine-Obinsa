@@ -43,7 +43,7 @@
 ## 📫 Connect with Me  
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://png.pngtree.com/template/20190717/ourmid/pngtree-gmail-logo-png-image_229718.jpg" alt="Email" width="40">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="https://www.facebook.com/crissaobinsa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40">
