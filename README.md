@@ -36,5 +36,8 @@
 
 ⭐ *Thanks for visiting my GitHub page!* 🌸  
 
-![Cristine](https://github.com/crissa-ya/Cristine-Obinsa/blob/main/thank%20you.gif)
+<p align="center">
+  <img src="https://github.com/crissa-ya/Cristine-Obinsa/blob/main/thank%20you.gif" alt="Cristine" width="300">
+</p>
+
 
