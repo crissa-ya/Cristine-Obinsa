@@ -42,15 +42,15 @@
 
 ## 📫 Connect with Me  
 <a href="mailto:cristine.obinsa@g.msuiit.edu.ph" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fgmail-logo.html&psig=AOvVaw3mcsRnOShUqPUlfhIVQEfG&ust=1756456212063000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCWj72LrY8DFQAAAAAdAAAAABAE" alt="Email" width="40">
 </a>
 
-<a href="https://www.facebook.com/CristineObinsa" target="_blank">
+<a href="https://www.facebook.com/crissaobinsa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40">
 </a>
 
-<a href="https://www.instagram.com/CristineObinsa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40">
+<a href="https://www.instagram.com/crstneobnsa/" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Finstagram-logo-png&psig=AOvVaw3j87firU2LDgZlQEita4_d&ust=1756456291622000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjLhd6LrY8DFQAAAAAdAAAAABAE" alt="Instagram" width="40">
 </a>
 ---
 
