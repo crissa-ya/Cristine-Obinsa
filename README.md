@@ -20,13 +20,14 @@
 ---
 
 ## 🔧 Skills  
-- **Programming:** Java, Python, MySQL, CSS, HTML
+- **Programming:** Java, Python, MySQL, CSS, HTML, VSC
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://e7.pngegg.com/pngimages/195/304/png-clipart-visual-studio-code-logo-thumbnail-tech-companies-thumbnail.png" height="40" alt="VSC"/>
 
 
 - **Networking:** VLAN, Routing, SSH, Packet Tracer
