@@ -1,11 +1,13 @@
-# Cristine-Obinsa
 
-![Cristine](https://github.com/crissa-ya/Cristine-Obinsa/blob/main/hello.gif)
+<p align="center">
+  ![Cristine](https://github.com/crissa-ya/Cristine-Obinsa/blob/main/hello.gif)
+</p>
+
 
 ---
-
-## Hi everyone, I'm Cristine yoroshiku onegaishimasu😊
-
+<p align="center">
+  ## Hi everyone, I'm Cristine yoroshiku onegaishimasu😊
+</p>
 🎓 **BSIT Student** | Mindanao State University - Iligan Institute of Technology  
 💻 Passionate about **Networking, Graph Theory, and Software Development**  
 ♟️ **Chess Player** 
