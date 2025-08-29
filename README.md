@@ -20,7 +20,7 @@
 ---
 
 ## 🔧 Skills  
-- **Programming:** Java, Python, MySQL, CSS, HTML, VSC
+- **Programming:** Java, Python, MySQL, CSS, HTML, VSC, XAMPP
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="40" alt="VSC"/>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.5zo7zNgNmYezWrJEiDincgHaHk?pid=Api&P=0&h=220" height="40" alt="XAMPP"/>
 
 
 - **Networking:** VLAN, Routing, SSH, Packet Tracer
